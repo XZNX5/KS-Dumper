@@ -58,4 +58,4 @@ Considering the nature of this project, it is highly recommended to run it in a 
 - Requires .NET 4.8
 - Window Driver Framework (WDK)
 
-© 2023 ! XZNX 5. All rights reserved.
+**© 2023 ! XZNX 5. All rights reserved.**
