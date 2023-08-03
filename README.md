@@ -1,4 +1,9 @@
 # KsDumper-11
+
+# *Disclamer
+***The use of this project is the sole responsibility of the user. I am not responsible for any consequences arising from the use of this tool.***
+
+
 https://user-images.githubusercontent.com/78676320/213967527-ba0d435d-9d92-467d-bd9f-4e85f947dfa0.mp4
 
 ## Whats new v1.2
